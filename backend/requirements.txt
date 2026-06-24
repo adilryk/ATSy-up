@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pdfplumber
+pytesseract
+Pillow
+spacy
+scikit-learn
+python-multipart
+pydantic
